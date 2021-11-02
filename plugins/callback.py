@@ -27,7 +27,7 @@ async def help_cb(c, m):
 
 **How to enable uploader details in caption**
 
-★ Use /mode command to change and also you can use `/mode channel_id` to control caption for channel msg."""
+★ Use /mode command to change and also you can use `/mode channel_id` to control caption for channel msg BY @KOT_BOTS."""
 
     # creating buttons
     buttons = [
@@ -62,19 +62,19 @@ async def about_cb(c, m):
     # about text
     about_text = f"""--**My Details:**--
 
-🤖 𝐌𝐲 𝐍𝐚𝐦𝐞: {bot.mention(style='md')}
+🤖 𝐌𝐲 𝐍𝐚𝐦𝐞: {bot.mention(style='KOT')}
     
 📝 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞: [Python 3](https://www.python.org/)
 
 🧰 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤: [Pyrogram](https://github.com/pyrogram/pyrogram)
 
-👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: {owner.mention(style='md')}
+👨‍💻 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫: [KOT DEVELOPERS](https://t.me/KOT_FREE_DE_LA_HOYA_OFF) 
 
-📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [NS BOT UPDATES](https://t.me/Ns_bot_updates)
+📢 𝐂𝐡𝐚𝐧𝐧𝐞𝐥: [KOT BOT UPDATES](https://t.me/KOT_BOTS)
 
-👥 𝐆𝐫𝐨𝐮𝐩: [Ns BOT SUPPORT](https://t.me/Ns_Bot_supporters)
+👥 𝐆𝐫𝐨𝐮𝐩: [KOT SUPPORT](https://t.me/KOT_REPORS)
 
-🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://github.com/Ns-Bots/TG-File-Store)
+🌐𝐒𝐨𝐮𝐫𝐜𝐞 𝐂𝐨𝐝𝐞: [Press Me 🥰](https://t.me/KING_OF_THE_CARTOONS_CHANNEL)
 """
 
     # creating buttons
